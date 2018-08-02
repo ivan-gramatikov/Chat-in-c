@@ -17,4 +17,4 @@ Compile by:
 ` gcc chat.c -l pthread -o chatserver`
 and then use:
 
-`./chatserver``
+`./chatserver`
